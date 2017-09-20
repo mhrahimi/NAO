@@ -1,0 +1,1 @@
+Please copy the "ax" folder to "C:\Program Files (x86)\Aldebaran\Choregraphe 1.14.3.5\share\choregraphe\media\images\box\"
